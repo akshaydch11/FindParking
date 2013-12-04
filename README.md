@@ -1,4 +1,4 @@
-Find Parking
+FindParking
 
 In this project, I have used google maps android v2 api and google places api to find out nearest parking lots.
 
