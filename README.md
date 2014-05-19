@@ -8,3 +8,10 @@ For using, google places you need "Browser API key" android key doesnot work her
 Tutorial how to generate browser key : https://developers.google.com/maps/documentation/javascript/tutorial
 
 You can change the value of key "AppConstants.PLACE_TO_LOOK" if your application need to search different types places like restaurants, amusements_park etc in search results. Supported keywords are available on https://developers.google.com/places/documentation/supported_types.
+
+SCREENSHOTS:
+
+![alt 1](raw/1.jpg)
+![alt 2](raw/2.jpg)
+![alt 3](raw/3.jpg)
+![alt 4](raw/4.jpg)
